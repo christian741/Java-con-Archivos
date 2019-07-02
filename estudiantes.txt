@@ -1,0 +1,7 @@
+0 Santiago Diaz 300 programacion
+1 Rosa Rodriguez 301 programacion
+2 Laura Murillo 300 estructuras
+3 Paola elvio 300 biologia
+4 Cuadrado lado 301 estructuras
+5 Circulo Ubate 301 biologia
+6  Steven Hernandez  302 programacion 0

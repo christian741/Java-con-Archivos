@@ -1,0 +1,6 @@
+0 Christian Diaz 300 programacion
+1 Camilo Medina 300 estructuras
+2 Daniel Enrique 300 biologia
+3 Juan Perez 301 programacion
+4 Antonio Hernandez 301 estructuras
+5 Pedro Mando 301 biologia
